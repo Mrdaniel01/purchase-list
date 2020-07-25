@@ -1,2 +1,2 @@
 # purchase-list
-Lista de compras
+Lista de compras en HTML y CSS Utilizando Display Flex
